@@ -37,6 +37,3 @@ Usage of ./mdm_svr:
   such as:
     ./mdm_svr_run -svrAddr=":28800" -connPass="123456" -connCert="./svr.crt" -connKey='./svr.key' -pushPass="keystore" -pushPath="./keystore.p12" -redisAddr="127.0.0.1:16379" -redisPass="" -connAddr="https://testngn.ioatest.net:28800"
 ```
-
-***
-参考文档：https://iwiki.woa.com/pages/viewpage.action?pageId=517347935
